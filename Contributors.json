@@ -1,26 +1,8 @@
 [
-  {
-    "name": "RINGTA",
-    "role": "Top Creator"
-  },
-  {
-    "name": "BUBLIK6241",
-    "role": "Top Creator"
-  },
-  {
-    "name": "pineapple.juceismypookie",
-    "role": "Creator"
-  },
-  {
-    "name": "suuwi2k",
-    "role": "Creator"
-  },
-  {
-    "name": "mr_bloxy_god.5",
-    "role": "Creator"
-  },
-  {
-    "name": "takeflighttofight",
-    "role": "Creator"
-  }
+  { "name": "RINGTA", "role": "Top Creator" },
+  { "name": "BUBLIK6241", "role": "Top Creator" },
+  { "name": "pineapple.juceismypookie", "role": "Creator" },
+  { "name": "suuwi2k", "role": "Creator" },
+  { "name": "mr_bloxy_god.5", "role": "Creator" },
+  { "name": "takeflighttofight", "role": "Creator" }
 ]
